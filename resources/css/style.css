@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.video-container video {
+    max-width: 100%;
+    height: auto;
+}
+
+.features img {
+    margin: 20px 0;
+    max-width: 100%;
+}
+
+.coming-soon img {
+    margin: 20px 0;
+}
+
+footer {
+    text-align: right;
+    padding-right: 20px;
+}
